@@ -13,6 +13,10 @@ This project applies Random Forest classification to detect different types of c
 
 
 
+## Credits
+This project was developed as part of a lab exercise in the [Hack The Box: Applications of AI in InfoSec]
+
+
 
 
 
