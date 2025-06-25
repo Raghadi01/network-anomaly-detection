@@ -10,10 +10,9 @@ This project applies Random Forest classification to detect different types of c
 - Evaluation metrics (accuracy, precision, recall, F1)
 - Confusion matrix heatmap
 
-## Dataset
 
-Download the NSL-KDD dataset used from :
 
- - https://www.kaggle.com/api/v1/datasets/download/hassan06/nslkdd
+
+
 
 
